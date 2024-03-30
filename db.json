@@ -1,0 +1,174 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "ariyan",
+      "age": "25",
+      "surname": "khan",
+      "email": "ari@test.com",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "rishi",
+      "age": "33",
+      "surname": "malviya",
+      "email": "rishi@test.com",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "name": "oli",
+      "age": "20",
+      "surname": "kar",
+      "email": "olikar56@gmail.com",
+      "gender": "female",
+      "id": 8
+    },
+    {
+      "name": "Rihan",
+      "age": "75",
+      "surname": "acharya",
+      "email": "rihanaracharya02@gmail.com",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "name": "rajdip",
+      "age": "22",
+      "surname": "chakraborty",
+      "email": "rajchkraborty55@gmail.com",
+      "gender": "not willing to say",
+      "id": 12
+    },
+    {
+      "name": "ram",
+      "age": "23",
+      "surname": "ram",
+      "email": "ram44@gmail.com",
+      "gender": "not willing to say",
+      "id": 13
+    },
+    {
+      "name": "mathew_m1",
+      "age": "27",
+      "surname": "hyden",
+      "email": "mathewhyden43@gmail.com",
+      "image": "blob:http://localhost:3000/96bdaf6f-441b-40d8-9c2e-63df83279d7e",
+      "gender": "male",
+      "id": 14
+    },
+    {
+      "name": "ariana_w1",
+      "age": "23",
+      "surname": "grande",
+      "email": "ariana44@gmail.com",
+      "image": "blob:http://localhost:3000/dde6f0d9-0a3f-4192-ad98-324837086c0f",
+      "gender": "female",
+      "id": 15
+    },
+    {
+      "name": "f",
+      "age": "56",
+      "surname": "rsg",
+      "email": "gtrerg@gmail.com",
+      "image": "blob:http://localhost:3000/24d29fd9-ea62-49c6-8882-1d751defe7b5",
+      "gender": "not willing to say",
+      "id": 16
+    },
+    {
+      "name": "fgdghdfg",
+      "age": "67",
+      "surname": "drdg",
+      "email": "dghd@gmail.com",
+      "image": "blob:http://localhost:3000/a805f0a8-195d-4b8c-8367-6763880f07f7",
+      "gender": "male",
+      "id": 17
+    },
+    {
+      "name": "ujygyu",
+      "age": "88",
+      "surname": "ijuhb",
+      "email": "ijh67@gmail.com",
+      "image": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1304105%2Fretina_500x200_Generative-AI-Ethics_Blog-fcc232e6dde50ff310fdd006449950f7.png",
+      "gender": "male",
+      "id": 18
+    },
+    {
+      "name": "stgftsd",
+      "age": "44",
+      "surname": "sersr",
+      "email": "sfsrdf56@gmail.com",
+      "image": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Ftalent%2Fprofile%2Fpicture_file%2Fpicture%2F1070796%2Fhuge_050e4850ad15f08d6cf68cc6afba29af-27afa1e95f03d7a58007319de7b267d0.jpg&width=524",
+      "gender": "male",
+      "id": 19
+    },
+    {
+      "name": "sfdrgr",
+      "age": "55",
+      "surname": "sdegfre",
+      "email": "y78@gmail.com",
+      "image": "https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1282565%2Fretina_500x200_cover-react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png",
+      "gender": "male",
+      "id": 20
+    },
+    {
+      "name": "jkl",
+      "age": "55",
+      "surname": "err",
+      "email": "ukk456@gmail.com",
+      "image": "blob:http://localhost:3000/ef7f4b60-f419-471d-a3ae-861dc958a80c",
+      "gender": "not willing to say",
+      "id": 21
+    },
+    {
+      "name": "rakesh",
+      "age": "23",
+      "surname": "malviya",
+      "email": "rakesh@test.com",
+      "image": "blob:http://localhost:3000/cff701f2-0c82-41f3-966d-f138adab1024",
+      "gender": "male",
+      "id": 22
+    },
+    {
+      "name": "rohit",
+      "age": "21",
+      "surname": "agarwal",
+      "email": "rohit@gmail.com",
+      "image": "blob:http://localhost:3000/ff905db8-9f1f-4088-83eb-46b14ac19db8",
+      "gender": "male",
+      "id": 23
+    },
+    {
+      "name": "romesh...",
+      "age": "23",
+      "surname": "kulkarni",
+      "email": "romesh@gmail.com",
+      "image": "blob:http://localhost:3000/5b1ca52d-e324-4591-aaa3-a7f539195508",
+      "gender": "male",
+      "id": 24
+    },
+    {
+      "name": "Mahi",
+      "age": "20",
+      "surname": "kohli",
+      "email": "mk@test.com",
+      "image": "",
+      "gender": "male",
+      "id": 25
+    }
+  ]
+}
